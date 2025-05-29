@@ -2,6 +2,7 @@
 Um aplicativo mobile usado para conversão de unidades de medidas. As tecnologias usadas para criação: Ionic flamework v7 + Angular v19.
 
 -> ionic start unit-converter blank --type=angular --capacitor
+
 -> NgModules
 
 Estrutura de Pastas:
